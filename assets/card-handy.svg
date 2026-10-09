@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" fill="none">
+  <rect width="560" height="200" rx="18" fill="#FFFFFF" stroke="#F2F2F2"/>
+  <rect width="8" height="200" rx="4" fill="#FF7759"/>
+  <text x="32" y="48" fill="#93939F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5">OPEN SOURCE</text>
+  <text x="32" y="88" fill="#17171C" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="600" letter-spacing="-0.4">handy_tdlib_next</text>
+  <text x="32" y="120" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">Flutter / Dart TDLib bindings · libtdjson · FFI · Android</text>
+  <text x="32" y="144" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">Originated from Follow Pay Telegram verification work</text>
+  <rect x="32" y="162" width="92" height="26" rx="13" fill="#EDFCE9"/>
+  <text x="78" y="180" fill="#003C33" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="500" text-anchor="middle">GitHub ’</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none">
+  <rect width="1200" height="120" rx="18" fill="#EEECE7"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="500" fill="#17171C">
+    <rect x="24" y="40" width="78" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="63" y="65" text-anchor="middle">Flutter</text>
+    <rect x="112" y="40" width="118" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="171" y="65" text-anchor="middle">React Native</text>
+    <rect x="240" y="40" width="72" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="276" y="65" text-anchor="middle">Kotlin</text>
+    <rect x="322" y="40" width="78" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="361" y="65" text-anchor="middle">FastAPI</text>
+    <rect x="410" y="40" width="52" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="436" y="65" text-anchor="middle">Go</text>
+    <rect x="472" y="40" width="62" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="503" y="65" text-anchor="middle">Rust</text>
+    <rect x="544" y="40" width="102" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="595" y="65" text-anchor="middle">PostgreSQL</text>
+    <rect x="656" y="40" width="92" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="702" y="65" text-anchor="middle">Supabase</text>
+    <rect x="758" y="40" width="92" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="804" y="65" text-anchor="middle">Dragonfly</text>
+    <rect x="860" y="40" width="118" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="919" y="65" text-anchor="middle">TurboModules</text>
+    <rect x="988" y="40" width="112" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="1044" y="65" text-anchor="middle">Core-Telecom</text>
+    <rect x="1110" y="40" width="66" height="40" rx="20" fill="#FFFFFF" stroke="#D9D9DD"/><text x="1143" y="65" text-anchor="middle">TDLib</text>
+  </g>
+</svg>
