@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" fill="none">
   <rect width="1200" height="140" rx="18" fill="#003C33"/>
   <text x="40" y="48" fill="#FFAD9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.8">CONTACT</text>
   <text x="40" y="86" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="500">hello@itxmoizdev.com</text>
-  <text x="40" y="114" fill="#B8D4C8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15">business@ · opensource@ · jobs@ · itxmoizdev.com</text>
+  <text x="40" y="114" fill="#B8D4C8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15">business@ / opensource@ / jobs@ / itxmoizdev.com</text>
   <circle cx="1140" cy="70" r="28" fill="#FF7759"/>
   <path d="M1128 70h24M1140 58v24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
 </svg>

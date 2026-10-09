@@ -1,11 +1,10 @@
 <!--
-  GitHub profile README — visual cards match itxmoizdev.com
-  (canvas white · deep green #003C33 · coral #FF7759 · stone #EEECE7)
+  GitHub profile README — PNG cards (Camo-safe) matching itxmoizdev.com
 -->
 
 <p align="center">
   <a href="https://itxmoizdev.com">
-    <img src="./assets/banner.svg" alt="Abdul Moiz Dev — itxmoizdev" width="100%" />
+    <img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/banner.png" alt="Abdul Moiz Dev — itxmoizdev" width="100%" />
   </a>
 </p>
 
@@ -18,21 +17,21 @@
 
 <br/>
 
-### ▸ Building
+### Building
 
 <p align="center">
-  <a href="https://itxmoizdev.com/case-studies#follow-pay"><img src="./assets/card-follow-pay.svg" alt="Follow Pay" width="32%" /></a>
-  <a href="https://itxmoizdev.com/case-studies#alo-voice"><img src="./assets/card-alo-voice.svg" alt="Alo Voice" width="32%" /></a>
-  <a href="https://itxmoizdev.com/case-studies#bemxc"><img src="./assets/card-bemxc.svg" alt="BEMXC" width="32%" /></a>
+  <a href="https://itxmoizdev.com/case-studies#follow-pay"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/card-follow-pay.png" alt="Follow Pay" width="32%" /></a>
+  <a href="https://itxmoizdev.com/case-studies#alo-voice"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/card-alo-voice.png" alt="Alo Voice" width="32%" /></a>
+  <a href="https://itxmoizdev.com/case-studies#bemxc"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/card-bemxc.png" alt="BEMXC" width="32%" /></a>
 </p>
 
 <br/>
 
-### ▸ Open source
+### Open source
 
 <p align="center">
-  <a href="https://github.com/itxmoizdev/react-native-telecom"><img src="./assets/card-rn-telecom.svg" alt="react-native-telecom" width="48%" /></a>
-  <a href="https://github.com/itxmoizdev/handy-tdlib-next"><img src="./assets/card-handy.svg" alt="handy_tdlib_next" width="48%" /></a>
+  <a href="https://github.com/itxmoizdev/react-native-telecom"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/card-rn-telecom.png" alt="react-native-telecom" width="48%" /></a>
+  <a href="https://github.com/itxmoizdev/handy-tdlib-next"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/card-handy.png" alt="handy_tdlib_next" width="48%" /></a>
 </p>
 
 <p align="center">
@@ -47,18 +46,18 @@
 
 <br/>
 
-### ▸ Stack
+### Stack
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Stack: Flutter, React Native, Kotlin, FastAPI, Go, Rust, PostgreSQL, Supabase, Dragonfly, TurboModules, Core-Telecom, TDLib" width="100%" />
+  <img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/stack.png" alt="Stack: Flutter, React Native, Kotlin, FastAPI, Go, Rust, PostgreSQL, Supabase, Dragonfly, TurboModules, Core-Telecom, TDLib" width="100%" />
 </p>
 
 <br/>
 
-### ▸ Contact
+### Contact
 
 <p align="center">
-  <a href="mailto:hello@itxmoizdev.com"><img src="./assets/contact.svg" alt="Contact Abdul Moiz Dev" width="100%" /></a>
+  <a href="mailto:hello@itxmoizdev.com"><img src="https://raw.githubusercontent.com/itxmoizdev/itxmoizdev/main/assets/contact.png" alt="Contact Abdul Moiz Dev" width="100%" /></a>
 </p>
 
 <p align="center">

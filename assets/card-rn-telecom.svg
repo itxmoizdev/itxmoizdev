@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" fill="none">
   <rect width="560" height="200" rx="18" fill="#FFFFFF" stroke="#F2F2F2"/>
   <rect width="8" height="200" rx="4" fill="#003C33"/>
   <text x="32" y="48" fill="#93939F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5">OPEN SOURCE</text>
   <text x="32" y="88" fill="#17171C" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="600" letter-spacing="-0.4">react-native-telecom</text>
-  <text x="32" y="120" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">Android Core-Telecom · TurboModules · CallStyle · Kotlin</text>
-  <text x="32" y="144" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">New Architecture VoIP call UI  from Alo Voice engineering</text>
+  <text x="32" y="120" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">Android Core-Telecom / TurboModules / CallStyle / Kotlin</text>
+  <text x="32" y="144" fill="#75758A" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">New Architecture VoIP call UI - from Alo Voice engineering</text>
   <rect x="32" y="162" width="92" height="26" rx="13" fill="#F1F5FF"/>
-  <text x="78" y="180" fill="#1863DC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="500" text-anchor="middle">GitHub ’</text>
+  <text x="78" y="180" fill="#1863DC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="500" text-anchor="middle">GitHub -&gt;</text>
 </svg>
